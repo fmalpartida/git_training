@@ -9,4 +9,7 @@ publish them and process a pull request.
 request into the integration branch.
 
 2. I am the owner of the repo and I want to work in an organized manner. What I will do is to create a work branch and
-then when I am done I will merge the work into the integration branch.
+then when I am done I will merge the work into the integration branch. 
+For that, I will create a feature branch, commit 
+my work to the work branch and then I will merge the changes locally into the integration branch and push the changes to 
+the repo.
